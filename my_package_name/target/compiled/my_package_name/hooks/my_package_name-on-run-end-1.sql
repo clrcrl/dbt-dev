@@ -1,1 +1,0 @@
-grant select on all tables in schema "analytics_claire" to db_reader

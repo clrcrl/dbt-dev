@@ -1,1 +1,4 @@
 .DS_Store
+my_package_name/.DS_Store
+my_package_name/logs/*
+my_package_name/target/*

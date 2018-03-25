@@ -1,1 +1,0 @@
-create table if not exists audit (model text, state text, time timestamp)
